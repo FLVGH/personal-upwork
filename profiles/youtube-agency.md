@@ -35,7 +35,7 @@ YouTube channel audit and growth consultancy. I find what's killing your retenti
 ## Core proof points
 - Influxon Media: 1.5 years, 100% channel growth in 6 consecutive months, built and managed full content team
 - 6 years across channels as manager, consultant, and auditor
-- Sales + RevOps background — thinks about YouTube-to-sale funnel, not just views
+- VidIQ for keyword research, competitor analysis, SEO scoring — confirmed tool
 
 ## Door-check additions for YouTube jobs
 - Is the client asking for editing/uploads? If yes, this is an agency play not an audit play — different scope, different pitch
