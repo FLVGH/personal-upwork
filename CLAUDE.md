@@ -326,7 +326,7 @@ I just opened up some bandwidth for [cold email setup / YouTube channel ops]. I 
 ```
 Hey [Name] — congrats on the raise, saw it on [LinkedIn/Crunchbase].
 
-I run outbound + sales infra for B2B SaaS. We've built [relevant past setup with metric]. If you're scaling pipeline this quarter, happy to jump on 15 min.
+I run outbound + sales infra for B2B SaaS. We've built [relevant past setup with metric]. If you're scaling pipeline this quarter, worth a 15-min call?
 ```
 
 **Job-post-trigger ("instead of a full-time hire"):**

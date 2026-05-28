@@ -1,7 +1,7 @@
 # Profile: Personal — Inbound High-Ticket Sales Closer
 
 ## Positioning statement
-Full-cycle B2B sales rep who lives on the phone. 1,000+ calls handled, $250K+ closed across SaaS, agencies, and ecommerce clients. I don't just book meetings — I close them.
+Full-cycle B2B sales rep who lives on the phone. 1,000+ inbound calls handled, $250K+ closed across SaaS, agencies, and ecommerce clients. I don't just book meetings — I close them.
 
 ## Target niches (in priority order)
 1. B2B SaaS (preferred — strongest proof)
@@ -10,13 +10,14 @@ Full-cycle B2B sales rep who lives on the phone. 1,000+ calls handled, $250K+ cl
 4. Ecommerce (upsell/retention calls)
 
 ## Rate
-- **Floor:** $15/hr
-- **Target:** $18–20/hr
-- **Never go below:** $15/hr regardless of budget pressure
+- **Floor:** $18.50/hr
+- **Target:** $18.50–20/hr
+- **Never go below:** $18.50/hr regardless of budget pressure
 - **Fixed-price projects:** convert to hourly equivalent before bidding
 
 ## Claimed tools (only claim what you can demo)
 - CRMs: HubSpot, GoHighLevel, Pipedrive (confirm which you've actually used)
+- YouTube SEO: VidIQ (confirmed)
 - Dialers: confirm before claiming any specific one
 - Notion / Google Sheets for pipeline tracking
 - n8n + Apify (for your own automation work — don't lead with this unless job asks)

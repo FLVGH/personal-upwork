@@ -1,68 +1,64 @@
-# Profile: YouTube Agency — Channel Management
+# Profile: YouTube — Audit & Consultancy
 
 ## Positioning statement
-Done-for-you YouTube channel management. We handle editing, uploads, titles, descriptions, tags, and thumbnail briefs so the creator focuses on filming. Channels we manage stay consistent — consistent channels grow.
+YouTube channel audit and growth consultancy. I find what's killing your retention, CTR, and discoverability — and give you a ranked action list to fix it. Not a retainer factory. A focused operator who's managed and consulted channels for 6 years.
 
-## Target niches (in priority order)
-1. Solo creators / educators monetizing via course or coaching
-2. B2B brands using YouTube for inbound (SaaS, agencies)
-3. Ecommerce brands building organic reach
-4. Podcasters repurposing to YouTube
+## What this is NOT
+- Not a done-for-you editing service
+- Not a full management retainer (editing, uploads, scheduling)
+- Not a growth guarantee ("10K subs in 90 days")
+
+## What this IS
+- Channel audit: deep review of thumbnails, titles, retention curves, upload consistency, SEO gaps
+- Growth consultancy: strategy sessions, content calendar direction, monetisation path
+- One-off or short retainer (3 months max before reassessing)
+- Can recommend and brief vetted editors if client needs production help post-audit
+
+## Target clients
+1. Solo creators / educators who are stuck under 5K subs despite consistent uploads
+2. B2B brands using YouTube for inbound (SaaS, agencies) — channel not converting
+3. Coaches / consultants wanting YouTube as a lead gen engine
+4. Anyone who has the content but not the strategy
 
 ## Rate
-- **Floor:** $1,000/month retainer
-- **Target:** $1,200–1,800/month
-- **Never quote hourly** — this is a retainer-only service
-- **Discovery calls first** — never commit to scope before a call
-- **Red flag clients:** want to pay per video, or budget under $800/month
+- **Audit (one-off):** $300-$500 fixed depending on channel size
+- **Consultancy retainer:** $800-$1,500/month
+- **Never pitch editing as a deliverable** — it's not your service
+- **Discovery call first** — always
 
-## Services included in standard retainer (be explicit in proposals)
-- Video editing (long-form or Shorts — specify per client)
-- Upload + scheduling
-- SEO: titles, descriptions, tags optimized per video
-- Thumbnail brief (design not included unless upsold)
-- Monthly performance report
+## Tools confirmed
+- VidIQ (confirmed — use for keyword research, competitor analysis, SEO scoring)
+- TubeBuddy (familiar — don't lead with it)
+- Notion for client reports and action plans
+- Google Sheets for content calendars
 
-## Services NOT included (upsell or decline)
-- Scriptwriting / ideation
-- Thumbnail graphic design
-- Paid YouTube ads
-- Channel strategy audits (can be sold as one-off)
+## Core proof points
+- Influxon Media: 1.5 years, 100% channel growth in 6 consecutive months, built and managed full content team
+- 6 years across channels as manager, consultant, and auditor
+- Sales + RevOps background — thinks about YouTube-to-sale funnel, not just views
 
-## Claimed tools
-- CapCut / Premiere (confirm which editor you're using)
-- TubeBuddy or VidIQ for SEO (confirm)
-- Notion for client delivery workflow
-- Google Drive for asset handoff
-
-## Hard skill boundaries
-- Don't claim to do original filming / on-camera work
-- Don't claim paid ads expertise
-- Don't promise subscriber growth numbers — only claim consistency and optimization
-
-## Core proof points (build these out as you get clients)
-- [ ] **War story #1:** [Client type] went from X uploads/month to Y — fill once you have a case
-- [ ] **War story #2:** Channel consistency result — views, watch time, or subscriber growth
-- **Placeholder until you have data:** "We've managed channels across [niche] — consistency is the thing most creators can't maintain alone. That's what we fix."
-
-## Forbidden patterns
-- "We are a full-service digital marketing agency"
-- "We offer cutting-edge solutions"
-- "Our team of experts..."
-- Any vague growth promise ("we'll grow your channel to 10K subs")
-- Bullet list opening
-- Mentioning Upwork in the proposal body
+## Door-check additions for YouTube jobs
+- Is the client asking for editing/uploads? If yes, this is an agency play not an audit play — different scope, different pitch
+- Is the budget under $200 for a "full audit"? Red flag — they want free work
+- Do they have an existing channel with videos? Audit needs something to audit
 
 ## Trust-first sequencing (first 4 lines)
-1. Name one specific thing you noticed about their channel (watch 2 minutes before bidding)
-2. Connect that observation to a real outcome you've seen (or seen others miss)
-3. State exactly what you'd take off their plate
-4. Soft CTA — "happy to jump on a quick call to see if it's a fit"
+1. Name one specific problem you spotted in their channel (watch 2-3 videos before bidding)
+2. Connect it to a growth outcome — what's it costing them in views or subs
+3. State exactly what the audit covers and what they walk away with
+4. Soft CTA — invite a call, no commitment
 
 ## Tone
-Professional but not corporate. Sound like a small team that cares about the creator's channel, not a factory. Creators are protective of their brand — match that energy.
+Direct. Specific. Sound like someone who has watched 500 channels and knows immediately what's wrong. Not a cheerleader. Not a growth-hacker. An operator.
 
-## Notes on this angle
-- This is an agency profile, not your personal brand — keep "I" to a minimum, use "we"
-- If asked about team size, say "small focused team" — don't fabricate headcount
-- Build 1–2 real case studies before scaling bids on this angle
+## Forbidden patterns
+- "We are a full-service agency"
+- Any vague growth promise
+- Bullet list opening
+- "happy to", "I'd love to", "leverage", "deep dive"
+- Mentioning Upwork in the proposal body
+
+## Notes
+- Sign as "Flavio" — this is personal profile positioning, not agency
+- If client wants full management (editing, uploads), scope it as: audit first, then optionally refer or build a team around their needs post-call
+- Agency angle (subcontracting editors) is a future play — don't pitch it until you have 1-2 audits done and a trusted editor on hand
