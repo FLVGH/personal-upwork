@@ -29,13 +29,11 @@ Full-cycle B2B sales rep who lives on the phone. 1,000+ inbound calls handled, $
 
 ## Core proof points
 - **War story #1 (STRONG):** Handled 1,000+ inbound sales calls; closed $250K+
-- **War story #2 (STRONG):** Scaled a SaaS from $12K → $52K MRR solo (confirm timeline before using — 9 months?)
-- **War story #3:** Built full sales motion from scratch for [client type — fill in]
+- **War story #2:** Built full sales motion from scratch for [client type — fill in once confirmed]
 
 ## Verify before using in a proposal
-- [ ] $250K+ figure — is this verifiable / do you have receipts?
-- [ ] $12K → $52K MRR — what was the actual timeline? Name the company or keep anonymous?
-- [ ] "1,000+ calls" — inbound only, or mixed?
+- [ ] $250K+ figure — defensible on a call?
+- [ ] War story #2 — confirm client type and outcome before using
 
 ## Forbidden patterns (never let these appear in proposals)
 - "I hope this message finds you well"
