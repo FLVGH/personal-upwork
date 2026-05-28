@@ -17,7 +17,6 @@ Full-cycle B2B sales rep who lives on the phone. 1,000+ inbound calls handled, $
 
 ## Claimed tools (only claim what you can demo)
 - CRMs: HubSpot, GoHighLevel, Pipedrive (confirm which you've actually used)
-- YouTube SEO: VidIQ (confirmed)
 - Dialers: confirm before claiming any specific one
 - Notion / Google Sheets for pipeline tracking
 - n8n + Apify (for your own automation work — don't lead with this unless job asks)

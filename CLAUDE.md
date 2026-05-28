@@ -196,6 +196,10 @@ Flavio
 - YouTube editing → volume shipped + retention metric
 - Sales ops → time-to-close reduction / pipeline visibility metric
 
+**HARD SEPARATION — never cross these:**
+- Sales proposals: $250K closed, 1,000+ inbound calls, Squadstack ACV, SidekeyTV. No YouTube mentions.
+- YouTube proposals: Influxon 100% growth, 6 years, VidIQ. No sales revenue mentions.
+
 ---
 
 ## 7. The 7-slot advanced (only for $5K+ / $50+/hr jobs)
