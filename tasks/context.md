@@ -27,7 +27,7 @@
 - Sales calls/demos handled: 1,000+
 - Revenue closed: $50K-$100K range (do not claim $250K)
 - YouTube: 2-3 years managing/consulting channels on and off
-- Influxon Media: 1.5 years, grew channel 100% in 6 consecutive months, built and managed full content team
+- Infivision Media: 1.5 years, grew channel 100% in 6 consecutive months, built and managed full content team
 - Squadstack: closed deals ACV $309-$602, built inbound scripts, managed HubSpot CRM, 1yr 3 months
 - SidekeyTV: managed inbound + outbound leads, ACV $1,000, 2.5 years
 
@@ -134,6 +134,7 @@ Status: client needs to create Upwork account and post jobs.
 | Date | Job | File | Status |
 |------|-----|------|--------|
 | 28 May 2026 | Youtube Experto — Valencia Spain | outreach/youtube-experto-spain.md | Sent |
+| 31 May 2026 | YouTube Expert — Hannes Media Agency | outreach/youtube-hannes-media-agency.md | Sent |
 
 ---
 

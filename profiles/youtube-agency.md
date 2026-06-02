@@ -33,7 +33,7 @@ YouTube channel audit and growth consultancy. I find what's killing your retenti
 - Google Sheets for content calendars
 
 ## Core proof points
-- Influxon Media: 1.5 years, 100% channel growth in 6 consecutive months, built and managed full content team
+- Infivision Media: 1.5 years, 100% channel growth in 6 consecutive months, built and managed full content team
 - 6 years across channels as manager, consultant, and auditor
 - VidIQ for keyword research, competitor analysis, SEO scoring — confirmed tool
 
