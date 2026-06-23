@@ -1,11 +1,6 @@
 {
   "name": "personal-upwork",
-  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
-  "features": {
-    "ghcr.io/devcontainers/features/node:1": {
-      "version": "lts"
-    }
-  },
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
   "postCreateCommand": "npm install -g @anthropic-ai/claude-code",
   "postStartCommand": "command -v claude >/dev/null 2>&1 || npm install -g @anthropic-ai/claude-code"
 }

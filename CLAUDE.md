@@ -105,7 +105,7 @@ At 0 reviews you don't fight on hard buckets. Win the easy ones first.
 
 **Pick buckets in session 1 with me. My current draft:**
 - B (volume, easy wins, fast first review) = **YouTube editing / thumbnail / channel ops** — high job volume on Upwork, less competition than Sales
-- A (money winner, slower) = **Cold email infra / Sales BD / lead gen setup** — fewer jobs but $1K+ contracts
+- A (money winner, slower) = **High-ticket closing / inbound sales / appointment setting** — Flavio's real strength ($250K closed, 1,000+ inbound calls). Fewer jobs but $1K+ contracts, and the `high ticket closer` search returns many fresh `<5 proposal` jobs.
 - C = **Sales ops / CRM cleanup / Apollo + Clay workflows** — opportunistic, only if `<5 proposals` and clear scope
 
 **Sustainable pace: 10 bids/week.** That's ~400 connects/month, ~$45/mo. Don't outrun this on day 1.
@@ -136,11 +136,11 @@ Run this every job. If one fails, close the tab. Don't draft.
 - https://www.upwork.com/nx/search/jobs/?q=youtube%20thumbnail&payment_verified=1&sort=recency
 - https://www.upwork.com/nx/search/jobs/?q=youtube%20strategy&payment_verified=1&sort=recency
 
-**Bucket A (Sales — 3/week):**
-- https://www.upwork.com/nx/search/jobs/?q=cold%20email&payment_verified=1&sort=recency
-- https://www.upwork.com/nx/search/jobs/?q=lead%20generation&payment_verified=1&sort=recency
-- https://www.upwork.com/nx/search/jobs/?q=sales%20development&payment_verified=1&sort=recency
-- https://www.upwork.com/nx/search/jobs/?q=apollo%20outreach&payment_verified=1&sort=recency
+**Bucket A (Sales — closing focus, 3/week):**
+- https://www.upwork.com/nx/search/jobs/?q=high%20ticket%20closer&payment_verified=1&sort=recency
+- https://www.upwork.com/nx/search/jobs/?q=sales%20closer&payment_verified=1&sort=recency
+- https://www.upwork.com/nx/search/jobs/?q=appointment%20setter&payment_verified=1&sort=recency
+- https://www.upwork.com/nx/search/jobs/?q=remote%20closer&payment_verified=1&sort=recency
 
 **Bucket C (1/week):**
 - https://www.upwork.com/nx/search/jobs/?q=sales%20ops&payment_verified=1&sort=recency

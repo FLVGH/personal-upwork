@@ -31,7 +31,7 @@ Full-cycle B2B sales rep who lives on the phone. 1,000+ inbound calls handled, $
 - **War story #2:** Built full sales motion from scratch for [client type — fill in once confirmed]
 
 ## Verify before using in a proposal
-- [ ] $250K+ figure — defensible on a call?
+- [x] $250K+ figure — confirmed defensible, cleared for use
 - [ ] War story #2 — confirm client type and outcome before using
 
 ## Forbidden patterns (never let these appear in proposals)

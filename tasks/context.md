@@ -25,7 +25,7 @@
 
 ## Honest numbers (use these, not inflated ones)
 - Sales calls/demos handled: 1,000+
-- Revenue closed: $50K-$100K range (do not claim $250K)
+- Revenue closed: $250K+ (defensible — use in sales proposals)
 - YouTube: 2-3 years managing/consulting channels on and off
 - Infivision Media: 1.5 years, grew channel 100% in 6 consecutive months, built and managed full content team
 - Squadstack: closed deals ACV $309-$602, built inbound scripts, managed HubSpot CRM, 1yr 3 months
