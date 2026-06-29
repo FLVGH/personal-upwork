@@ -120,7 +120,7 @@ Status: client needs to create Upwork account and post jobs.
 
 ## What works in proposals (learned)
 - Personal line that echoes their exact words from the post
-- Named proof with real numbers (Influxon 100% growth, Squadstack ACV)
+- Named proof with real numbers (Infivision 100% growth, Squadstack ACV)
 - Sales + YouTube angle combined when relevant
 - Spanish mention as genuine personalisation for European clients
 - Free audit offer AFTER a call — not before

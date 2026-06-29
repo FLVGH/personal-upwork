@@ -2,13 +2,27 @@
 
 ## NEXT SESSION
 
-### Profile
+### Profile (UN-PAUSED 29 Jun — focus shifted here, away from sales bidding)
+
+YouTube agency (decided: separate Upwork Agency account):
+- [ ] Pick agency name from `profiles/youtube-agency-bio-ready.md` (4 options listed)
+- [ ] Create agency in Upwork Settings -> Agencies; add logo + tagline + overview
+- [ ] Add 3 portfolio items (Infivision 100% growth, content team; 3rd = fill honest win)
+- [ ] Set services + retainer rate ($1,000-$2,000/mo, audit $300-$500)
+- [ ] HYBRID: keep bidding YouTube from personal Top Rated profile until agency has
+      reviews + a vetted editor (see strategic flag in the bio file)
+
+Testimonials (asked, none identified yet — sourcing list in outreach/testimonial-requests.md):
+- [ ] Ask Infivision Media contact first (Template A or B)
+- [ ] Scan LinkedIn for past managers/founders + content-team peers
+- [ ] Fill the tracking table as you send
+
+Personal sales profile (still pending, lower priority now):
 - [ ] Paste bio from `profiles/personal-bio-ready.md` into Upwork personal profile
 - [ ] Change rate from $16.70 to $18.50
 - [ ] Add 3 portfolio items with outcome-first titles (see bio file)
 - [ ] Record 90-second video intro (YouTube unlisted, Capte subtitles font 32)
 - [ ] Fill in hours per week
-- [ ] Decide: create YouTube agency profile or rename existing one
 
 ### n8n Workflow
 

@@ -198,7 +198,7 @@ Flavio
 
 **HARD SEPARATION — never cross these:**
 - Sales proposals: $250K closed, 1,000+ inbound calls, Squadstack ACV, SidekeyTV. No YouTube mentions.
-- YouTube proposals: Influxon 100% growth, 6 years, VidIQ. No sales revenue mentions.
+- YouTube proposals: Infivision 100% growth, 6 years, VidIQ. No sales revenue mentions.
 
 ---
 
