@@ -26,7 +26,7 @@
 ## Honest numbers (use these, not inflated ones)
 - Sales calls/demos handled: 1,000+
 - Revenue closed: $250K+ (defensible — use in sales proposals)
-- YouTube: 2-3 years managing/consulting channels on and off
+- YouTube: 6 years managing/consulting channels on and off
 - Infivision Media: 1.5 years, grew channel 100% in 6 consecutive months, built and managed full content team
 - Squadstack: closed deals ACV $309-$602, built inbound scripts, managed HubSpot CRM, 1yr 3 months
 - SidekeyTV: managed inbound + outbound leads, ACV $1,000, 2.5 years
@@ -135,6 +135,10 @@ Status: client needs to create Upwork account and post jobs.
 |------|-----|------|--------|
 | 28 May 2026 | Youtube Experto — Valencia Spain | outreach/youtube-experto-spain.md | Sent |
 | 31 May 2026 | YouTube Expert — Hannes Media Agency | outreach/youtube-hannes-media-agency.md | Sent |
+| 29 Jun 2026 | Social Media Manager — Finance Creator (NY) | outreach/social-media-manager-finance-creator.md | DRAFT — paste Infivision link before send; bid $19.50, no boost |
+| 21 Jul 2026 | Faceless YouTube Growth Expert — Corne (NL) | outreach/faceless-youtube-growth-expert.md | SENT — bid $21.70/hr (Insights actual avg $19, not the $30.03 in post header), no boost |
+| 21 Jul 2026 | YouTube Channel Manager — DevOps Toolbox (Omer, UK) | outreach/youtube-channel-manager-devops-toolbox.md | DRAFT — bid $27.50/hr, no boost; verify avg paid at apply time; 1 already interviewing |
+| 24 Jul 2026 | YouTube Growth & Funnel Strategist — Skool (Josue, USA) | outreach/youtube-funnel-skool-strategist.md | DRAFT — door-check FAILED (10-15 proposals, 10 interviewing, $996 total spent); user override, YouTube+funnel blend fit; accept $2K/mo + 20% comm, no underbid; BOOST or skip; watch their videos before send |
 
 ---
 
