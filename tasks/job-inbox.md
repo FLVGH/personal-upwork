@@ -1,6 +1,13 @@
-# Job Inbox — 13 Aug 2026
+# Job Inbox — 13 Aug 2026 (MANUAL, not from the routine)
 
-Ran 18:53 UTC. 1 query (`youtube channel manager`, maxResults 25, verifiedPaymentOnly true).
+**This was built by hand from a CSV export, not by the scheduled routine.** One query
+only (`youtube channel manager`, maxResults 25, verifiedPaymentOnly true), scraped
+18:53 UTC. The routine has never produced an inbox yet, because the three environment
+settings in `tasks/job-hunt-routine.md` are not turned on.
+
+It also uses the OLD filter-and-drop format. The routine writes the newer
+BID / BORDERLINE / NO format where nothing gets deleted.
+
 25 jobs pulled, 2 survived the door-check.
 
 ## 1. Content Strategist and Execution Manager
