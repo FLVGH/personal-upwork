@@ -71,31 +71,21 @@ the audience instead of the chair. The 30,000 against 500,000 position is stated
 ```
 YOUTUBE REVENUE
 
-Two channels. I'll tell you upfront which one carries the revenue story.
+Two channels, and I'll tell you which one carries the revenue story.
 
-The finance channel. Built from scratch, started at a few hundred views a video, took it into the thousands. I ran all of it. Topics, packaging, titles, thumbnails, retention structure, the upload, and the analytics call on what to change next. At its peak it was doing 3,000 dollars a month on ad revenue alone, and sponsorships, the blog and the course leads sat on top of that as separate lines. It got sold, which is the cleanest answer I can give you on whether the audience was worth anything. I consult now instead of operating full time, and I can share current strategy reports from that work.
+The finance channel. Built from scratch, a few hundred views a video up into the thousands. I ran all of it. Topics, packaging, titles, thumbnails, retention structure, uploads, and the call on what to change next. At its peak, 3,000 dollars a month on ad revenue alone, with sponsorships, the blog and course leads sitting on top as separate lines. It got sold, which is the cleanest answer I have on whether the audience was worth anything. I consult now rather than operate, and I can share current strategy reports.
 
-One straight answer on attribution. On that channel my job stopped at leads and revenue. I wasn't the one closing and I won't claim I was. The closing record is on my profile. A thousand plus discovery and demo calls, 250K closed, HubSpot pipelines I built myself.
+Straight answer on attribution though. My job there stopped at leads and revenue. I wasn't closing and won't claim I was. The closing record is on my profile, a thousand plus discovery and demo calls and 250K closed. Which is why the funnel past the click isn't theory to me.
 
-Infivision Media, a year and a half. I ran the content team, the calendar and the packaging, and output doubled six months running. Not one lucky video, the whole thing moving. I was paid on growth and production there, so I can show you retention and CTR curves and I'm not going to invent a revenue line I didn't own.
+Infivision Media, a year and a half. Ran the content team and the packaging, output doubled six months running. I was paid on growth and production there, so I have retention and CTR curves and no revenue line I didn't own.
 
-Every channel I've run has been founder-led. Startup founders, that's the only client type I've done this for. And your 30,000 against 500,000 line is the right instinct. A channel aimed at your ICP looks smaller in Studio and prints more. I'd rather defend a low view count that fills your calendar than a big one that doesn't.
+Every channel I've run has been founder-led, startup founders only. And your 30,000 against 500,000 line is right. I'd rather defend a low view count that fills your calendar than a big one that doesn't.
 
-YouTube as a customer acquisition engine is the one part I can speak to from both ends. I've built the channels and I've worked the pipeline they feed.
+One thing I'd settle in week one. Leads for the agency and buyers for a course are two different people, and a channel feeding both teaches the algorithm to serve neither. Pick one for the first 90 days.
 
-One thing I'd want settled in week one. Leads for the agency and buyers for a course are two different people. Owners who want it done for them, and owners who want to learn to do it themselves. A channel feeding both teaches the algorithm to serve neither, and it shows up as decent views and no pipeline. Pick one for the first 90 days, let the other follow.
+Two I'd test. A full teardown of one client's ad spend with the real numbers on screen. And why your monthly marketing report hides the number that matters, which pulls owners already paying an agency and quietly unhappy about it.
 
-Three I'd test, pointed at agency clients:
-
-A full teardown of one client's ad spend, real numbers on screen. What went in, what came back, nothing hedged.
-
-Why your marketing report is hiding the number that matters. That one pulls owners who already pay an agency and are quietly unhappy, the highest intent viewer there is.
-
-What a five thousand dollar monthly marketing budget actually buys in 2026. Price topics bring in the people who are budgeting this quarter.
-
-I couldn't tell from your post whether the agency sells around Wichita or nationally. That changes the first ten titles more than anything else on that list.
-
-First 90 days. Week one is strategy and research only. Competitor teardown, content pillars, the first batch of titles, and a storyboard for the opening videos. Nothing gets filmed until that is settled. Weeks two to four, recording setup so filming stops being a decision every week, then we publish. Weeks five to eight, weekly output, and I fix packaging against what actually lands. Weeks nine to twelve, tie the analytics back to your CRM so we can name the videos that produced calls and cut the ones that didn't.
+First 90 days. Week one is strategy and research only. Competitor teardown, content pillars, first titles, storyboard. Nothing films until that is settled. Then weekly output while I fix packaging against what lands, and by the end we tie the analytics to your CRM so we can name the videos that produced calls.
 
 I'm not here to grow a channel. I'm here to grow the agency and the name on it.
 
@@ -132,11 +122,9 @@ Flavio
 
 - Em dashes: 0
 - Ampersands: 0
-- Word count: 633. Four times the 5-slot default, on purpose. He asked five questions per
-  channel plus a 90-day plan plus proof you read the post, which is more than ten answers.
-  A 150-word note answers none of them and reads as the generic proposal he warned against.
-  If you want it shorter, cut the Wichita question and the third topic. Nothing else goes
-  without dropping one of his answers.
+- Word count: 414, cut from 633. Dropped the Wichita question, the third topic, the standalone
+  both-ends paragraph (folded into one clause), and the week-by-week breakdown of the 90 days.
+  Every answer he actually asked for is still there. Below this it starts costing him answers.
 - Structure: required opener, finance channel answering all five of his questions, attribution
   limit stated out loud, second channel, who-you-work-with, the both-ends line, the audience
   split insight, three topics, Wichita question, 90 days in week blocks, close. His format,
