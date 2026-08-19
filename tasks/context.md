@@ -139,6 +139,7 @@ Status: client needs to create Upwork account and post jobs.
 | 21 Jul 2026 | Faceless YouTube Growth Expert — Corne (NL) | outreach/faceless-youtube-growth-expert.md | SENT — bid $21.70/hr (Insights actual avg $19, not the $30.03 in post header), no boost |
 | 21 Jul 2026 | YouTube Channel Manager — DevOps Toolbox (Omer, UK) | outreach/youtube-channel-manager-devops-toolbox.md | DRAFT — bid $27.50/hr, no boost; verify avg paid at apply time; 1 already interviewing |
 | 24 Jul 2026 | YouTube Growth & Funnel Strategist — Skool (Josue, USA) | outreach/youtube-funnel-skool-strategist.md | DRAFT — door-check FAILED (10-15 proposals, 10 interviewing, $996 total spent); user override, YouTube+funnel blend fit; accept $2K/mo + 20% comm, no underbid; BOOST or skip; watch their videos before send |
+| 14 Aug 2026 | YouTube Growth Strategist & Channel Operator — Founder-Led Brand (Wichita, USA) | outreach/youtube-growth-strategist-founder-brand.md | SEND-READY — door-check PASS; bid $18.50/hr (Insights avg paid $15.00, under floor so rule overridden), no boost, 17 connects; sales+YouTube separation broken on purpose; check Infivision niche before send |
 
 ---
 
