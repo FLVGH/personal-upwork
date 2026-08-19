@@ -148,9 +148,16 @@ curl -s -X POST "https://api.apify.com/v2/acts/blackfalcondata~upwork-scraper/ru
 
 Queries:
   youtube channel manager
-  youtube editor
-  youtube thumbnail
-  youtube strategy
+  youtube channel management
+  youtube growth strategist
+  youtube content manager
+
+Changed 19 Aug 2026. The old list ran "youtube editor" and "youtube thumbnail", which
+pull hands-on video-editing and thumbnail-design gigs — not the bucket. Bucket B per
+tasks/context.md is YouTube channel management / growth strategy (Infivision: grew a
+channel 100% in 6 months, ran the content team), not cutting footage or designing
+thumbnails as a service. If a BID/BORDERLINE job still turns out to be pure editing or
+thumbnail work, that is a query-drift signal — say so in the inbox header.
 
 That is 20 jobs. Volume is deliberately small to start and will be raised later. If a
 curl fails, retry it once, then carry on with the queries that worked and name the
@@ -217,13 +224,20 @@ BID <n> · BORDERLINE <n> · NO <n>
 
 ## NO
 
-| # | Job | Applicants | Budget | Killed by |
-|---|-----|-----------|--------|-----------|
+### 15. <title> — killed by: <the reason>
+- <applicants>, <budget>, <one-line summary of what they actually want>, <link>
+
+Changed 19 Aug 2026. NO used to be a table with no link and no summary — Flavio asked
+to see all 20 with name, summary, what they want, and the Upwork link, not just a
+"killed by" reason. Every job in every tier gets a link now. NO can stay one line each,
+but the line must carry the link and enough of the ask to sanity-check the scoring
+without opening the tab.
 
 Sort BID best-fit first. Best-fit means: matches his real proof, low applicant count,
 budget above his $18.50/hr floor or a fixed price worth the hours.
 
-Keep it readable on a phone. BID entries can breathe. NO is a table, one row each.
+Keep it readable on a phone. BID entries can breathe. NO is one compact line each, but
+never drops the link or the one-line summary.
 
 STEP 6 — commit and push to main. Commit message: "job inbox <date>".
 
@@ -250,6 +264,7 @@ to go deeper down the list.
 | Date | Pulled | BID | Notes |
 |------|--------|-----|-------|
 | 13 Aug 2026 | 25 (manual CSV, 1 query) | 2 | first real door-check. 666 Media $500 fixed + $50/mo forex channel. 23 dropped, which is what triggered the score-do-not-filter rewrite |
+| 14–19 Aug 2026 | ~20/day, 6 runs | — | routine ran daily on schedule but every push to GitHub 403'd (Task 4 never flipped on), so `job-inbox.md` in the repo never updated — each day's real inbox only reached Flavio as a phone push + attached file, never landed here. Also: 2 of the 4 queries (`youtube editor`, `youtube thumbnail`) were pulling hands-on editing/thumbnail-design jobs outside the bucket, and NO tier had no link or summary, so the daily inbox looked more "filtered" than it should. Paused 19 Aug 2026 to fix both before re-enabling. |
 
 ---
 
