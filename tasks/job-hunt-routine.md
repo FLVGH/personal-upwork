@@ -10,6 +10,71 @@ Docs: https://code.claude.com/docs/en/routines
 
 ---
 
+## How it flows
+
+```
+   4:33 UTC daily  (10:03am IST)
+          |
+          v
+  +----------------------+
+  |  ROUTINE FIRES       |   prompt lives at claude.ai/code/routines
+  +----------+-----------+   NOT in this repo. Only place it can be edited.
+             |
+             v
+     Apify, 4 queries              -> 20 jobs
+             |
+             v
+     Kill editing + thumbnail work -> deliverable is a file, not a decision
+             |
+             v
+     Door-check what is left       -> BID / BORDERLINE / NO
+             |
+             v
+     Overwrite tasks/job-inbox.md
+             |
+             v
+     Push to main
+             |
+             v
+     Phone notification
+             |
+- - - - - - + - - - - - - - - - - - - - - - -  YOU PICK IT UP HERE
+             |
+             v
+     Read the inbox on your phone
+             |
+             v
+     Open each link. Still live? Applicants still under 5?     <-- the step people skip
+             |                                                     numbers move in hours
+             v
+     "draft 3"
+             |
+             v
+     Claude reads CLAUDE.md + tasks/context.md
+     + profiles/ + past outreach/
+             |
+             v
+     outreach/<slug>.md, send-ready
+             |
+             v
+     "too soft, lead with the finance number"    <-- refine in the same chat
+             |
+             v
+     Copy into Upwork. You send it. Nothing auto-submits.
+             |
+             v
+     Logged to the sent proposals table
+```
+
+**The feedback loop.** Anything wrong at any step, say it in the same chat. It becomes a rule
+in this file or in CLAUDE.md, and the next run picks it up. That is the entire maintenance model.
+
+One exception, and it is the one that bit us: the routine prompt is stored outside the repo.
+Fixing the file does not fix the routine. The stored prompt has to be replaced separately or the
+scheduler keeps running whatever it was last given.
+
+---
+
 ## Design rule: score, do not filter
 
 Changed 13 Aug 2026. The routine used to delete jobs that failed the door-check and
