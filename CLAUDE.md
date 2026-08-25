@@ -404,4 +404,47 @@ If issues found → fix before presenting. If clean → reply: **Verification: P
 
 ---
 
+## 16. Sounding human (added 14 Aug 2026)
+
+Sec. 8 lists what to strip. This is the opposite list: what to actively put in. Clean writing
+with nothing risky in it still reads as drafted by a machine. These are the tells that don't.
+
+**The strongest one: say something that costs you.** Admit a limit, name a gap, decline a claim
+you could have made. "I wasn't the one closing and won't claim I was." AI-written proposals never
+do this because they optimise for sounding capable. A human who is actually confident gives
+things away. One per proposal. It buys more trust than three more credentials.
+
+**Specificity instead of adjectives.** Not "significant growth" but "3,000 dollars a month on
+ad revenue alone." Not "extensive experience" but "a year and a half." Every paragraph should
+carry one thing that could only come from having been there. If a sentence would survive being
+copied into someone else's proposal, cut it or make it specific.
+
+**Break the symmetry.** AI writes in threes and balances its clauses. Humans write one long
+winding sentence and then four words. Vary paragraph length too. A one-line paragraph on its own
+is a human move.
+
+**Contractions, always.** "I'm", "won't", "didn't", "that's". Formal expansion is a tell.
+
+**Answer out of order.** They asked five questions, so answer the interesting one first and let
+the boring one fall into a clause. Marching through their list in sequence reads as a form being
+filled in.
+
+**Catch something below the fold.** Personalisation from the job title is worthless, everyone
+does it. Reference the fourth paragraph, the throwaway parenthetical, the thing they said they
+did NOT want. That proves you read it, and the headline never does.
+
+**One unrequested opinion.** A judgement they did not ask for, on their business, that you would
+defend. The audience-split point in the Wichita proposal is the shape. Risky by design. It is
+also the only part of a proposal that makes someone want to talk to you rather than shortlist you.
+
+**Never explain what you just said.** No "in other words", no restating the point in the next
+sentence. Say it once and move.
+
+**Do not name-drop tools as authority.** Citing vidIQ or a guru to back your position puts you in
+the audience. State it as your own view and put the number next to it.
+
+**Read the last line out loud.** If it sounds like a cover letter, rewrite it.
+
+---
+
 **End of playbook. Acknowledge by listing my buckets back to me and asking the session 1 questions.**

@@ -148,16 +148,41 @@ curl -s -X POST "https://api.apify.com/v2/acts/blackfalcondata~upwork-scraper/ru
 
 Queries:
   youtube channel manager
-  youtube channel management
   youtube growth strategist
-  youtube content manager
+  youtube content strategy
+  youtube channel audit
 
-Changed 19 Aug 2026. The old list ran "youtube editor" and "youtube thumbnail", which
-pull hands-on video-editing and thumbnail-design gigs — not the bucket. Bucket B per
-tasks/context.md is YouTube channel management / growth strategy (Infivision: grew a
-channel 100% in 6 months, ran the content team), not cutting footage or designing
-thumbnails as a service. If a BID/BORDERLINE job still turns out to be pure editing or
-thumbnail work, that is a query-drift signal — say so in the inbox header.
+Changed 19 Aug 2026, revised 14 Aug 2026 re-run. The original list ran "youtube editor" and
+"youtube thumbnail", which pull hands-on video-editing and thumbnail-design gigs, not the
+bucket. Bucket B per tasks/context.md is YouTube channel management and growth strategy
+(Infivision: grew a channel 100% in 6 months, ran the content team), not cutting footage or
+designing thumbnails as a service.
+
+Two further changes on the re-run. "youtube channel management" was dropped as a near-duplicate
+of "youtube channel manager" (the 14 Aug pull deduped only 1 job out of 20, so overlapping
+queries waste a whole slot). And "youtube channel audit" was added, because the audit is the
+paid wedge that converts into a retainer, per tasks/10k-plan.md. Those jobs are the highest
+value ones in the bucket.
+
+STEP 2b — the editing and thumbnail kill rule
+
+A good query still returns bad jobs. Before scoring, check what the client is actually buying.
+If the primary deliverable is cutting video, designing thumbnails, adding captions, uploading
+files, or writing descriptions and tags, the job is **NO**, no matter how many door-checks it
+passes and no matter how good the budget is.
+
+Flavio does not sell hands-on editing or thumbnail design. He directs people who do.
+
+The test: would the deliverable be a video file or an image file? Then NO. Would it be a
+decision, a plan, a document or a report? Then score it normally.
+
+Strategy work that happens to mention editing or thumbnails as one line in a longer scope is
+fine and stays in. A job titled "video editor" that turns out to be channel ownership is also
+fine. Judge the deliverable, not the job title.
+
+In the NO row, say "editing work, not strategy" or "thumbnail design, not strategy" so the
+reason is visible. If more than half of a run gets killed by this rule, the queries have drifted
+again and the inbox header should say so.
 
 That is 20 jobs. Volume is deliberately small to start and will be raised later. If a
 curl fails, retry it once, then carry on with the queries that worked and name the
