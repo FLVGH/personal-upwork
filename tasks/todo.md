@@ -1,5 +1,7 @@
 # To Do
 
+**Sitting down to bid? Open `tasks/one-hour-sit.md`.** Minute-by-minute runbook for the hour.
+
 ## DO THESE FOUR FIRST (added 14 Aug 2026)
 
 Everything else in this file is downstream of these. Roughly two hours total.

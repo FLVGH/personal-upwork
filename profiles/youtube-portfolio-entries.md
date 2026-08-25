@@ -35,11 +35,23 @@ the growth, not a one-off spike.
 
 ---
 
-## Entry 3 — needs your input (don't invent)
-A third item makes the YouTube proof land harder, but I won't fabricate a number.
-Give me one of these and I'll write it:
-- An audit or consulting channel you advised, with a before/after you can defend
-- A specific video or thumbnail that beat the channel's average (a real number)
-- A niche/result from your 2-3 years of channel work outside Infivision
+## Entry 3 — UNBLOCKED 14 Aug 2026
+You gave me the finance channel numbers while we drafted the Wichita proposal, which is
+exactly what this slot was waiting for. Written from your own words, nothing added.
 
-If nothing fits yet, ship 2 now and add the 3rd after your first YouTube job.
+**Title:** $3,000/Month in Ad Revenue, Built From Zero -- Finance Channel Grown Until It Sold
+
+**Description:**
+Took a finance channel from a few hundred views a video into the thousands, starting from
+nothing. I owned the strategy end: topic selection, packaging, titles, thumbnails, the
+retention structure, uploads, and the read on what to change next. At its peak the channel
+was doing 3,000 dollars a month on ad revenue alone, with sponsorships, the blog and course
+leads running as separate lines on top. It was eventually sold, which is the cleanest proof
+I can offer that the audience was worth something. I consult on channels now rather than
+operating them full time.
+
+**Skills tags:** YouTube, Content Strategy, Audience Growth, Monetization, Channel Management
+
+**Before you paste:** know the month you read the 3,000 figure off AdSense, and roughly when
+and what the channel sold for. A client who reads this may ask, and the number is only an
+asset while you can defend it.

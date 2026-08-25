@@ -3,6 +3,16 @@
 ---
 
 ## Headline (70 chars max)
+
+**Use this one (66 chars), changed 14 Aug 2026:**
+YouTube Growth + B2B Sales | Channel Ops, $250K Closed | Top Rated
+
+Why: six of your ten weekly bids are YouTube. The old headline was pure sales, so every
+YouTube client who clicked through saw a sales rep and had to work out the connection
+themselves. Most won't bother. This one carries both, and Top Rated is the badge doing the
+heaviest lifting on a cold click.
+
+**Old (sales only, keep if you ever split the profiles):**
 B2B Sales Closer | $250K+ Closed | Inbound & Outbound | HubSpot | SaaS
 
 ---
