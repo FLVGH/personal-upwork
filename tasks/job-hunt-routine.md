@@ -245,9 +245,13 @@ Strategy work that happens to mention editing or thumbnails as one line in a lon
 fine and stays in. A job titled "video editor" that turns out to be channel ownership is also
 fine. Judge the deliverable, not the job title.
 
-In the NO row, say "editing work, not strategy" or "thumbnail design, not strategy" so the
-reason is visible. If more than half of a run gets killed by this rule, the queries have drifted
-again and the inbox header should say so.
+**This rule marks a job, it never hides one.** Say "editing work, not strategy" as the verdict
+reason, then still give it the same summary, link and suggestion line as everything else. The
+filtering is not trusted yet, so Flavio reads all 20 and overrules it when it is wrong. A job
+this rule kills must be just as readable as a BID.
+
+If more than half of a run gets killed by this rule, the queries have drifted again and the
+inbox header should say so.
 
 That is 20 jobs. Volume is deliberately small to start and will be raised later. If a
 curl fails, retry it once, then carry on with the queries that worked and name the
@@ -289,45 +293,61 @@ STEP 5 — write the inbox
 Overwrite tasks/job-inbox.md completely. Do not append. Number every job continuously
 across all three tiers so "draft 7" is never ambiguous.
 
+EVERY job gets all six lines below. All 20. No exceptions, no tier gets a shorter form,
+never a bare table. Flavio does not trust the filtering yet and reads the whole list to
+catch the scoring being wrong, which he cannot do if a job is reduced to a "killed by"
+reason. The tiers are a sort order and a recommendation, not a visibility setting.
+
+The two lines that carry the value are "What they want" and "Call". Those are what make
+the list skimmable and what let him overrule you. Never drop them.
+
 # Job Inbox — <date>
 
 Ran <time> UTC. 4 queries, <N> jobs pulled, <D> after dedupe.
 BID <n> · BORDERLINE <n> · NO <n>
+<if any tier is empty, say so plainly here>
 
 ## BID
 
 ### 1. <title>
-- Applicants: <n>
-- Budget: <$X fixed / $X-Y per hour>
-- Client: <$X spent, X reviews, X.X stars, country>
-- Posted: <how long ago>
+- <n> applicants · <$X fixed / $X-Y per hour> · <$X spent, X reviews, X.X stars, country> · posted <how long ago>
 - Link: <url>
-- Why it fits: <one or two lines tied to his ACTUAL proof in tasks/context.md.
-  Name the client or the number. Not "good match for your skills".>
+- What they want: <one plain line. The actual ask, in your words, not their marketing.
+  A person reading only this line should know whether to care.>
+- Verdict: BID
+- Why it fits: <tied to his ACTUAL proof in tasks/context.md. Name the client or the
+  number. Never "good match for your skills".>
+- Call: <what to actually do. Bid $X, boost or not, and the one thing to lead with.>
 - Watch out: <only if there is a real flag. Skip the line if there isn't.>
 
 ## BORDERLINE
 
-### 8. <title> — fails: <the one check>
-- <applicants, budget, client, posted, link on one compact line each>
-- Worth it anyway if: <the concrete condition that would make this a yes>
+### 8. <title>
+- <same one-line stats row> · Link: <url>
+- What they want: <one plain line>
+- Verdict: BORDERLINE, fails <the one check>
+- Call: <the concrete condition that would make this a yes, and what to bid if it is met>
 
 ## NO
 
-### 15. <title> — killed by: <the reason>
-- <applicants>, <budget>, <one-line summary of what they actually want>, <link>
+### 15. <title>
+- <same one-line stats row> · Link: <url>
+- What they want: <one plain line. Same quality as the BID ones. This is the tier where
+  a wrong verdict hides, so this line has to be good enough for him to catch you.>
+- Verdict: NO, <the reason>
+- Call: <usually "skip". But if there is a version of this that would be worth it, say it.
+  "Skip unless he raises the budget", "skip, but the client posts weekly, worth watching".>
 
-Changed 19 Aug 2026. NO used to be a table with no link and no summary — Flavio asked
-to see all 20 with name, summary, what they want, and the Upwork link, not just a
-"killed by" reason. Every job in every tier gets a link now. NO can stay one line each,
-but the line must carry the link and enough of the ask to sanity-check the scoring
-without opening the tab.
+Changed 19 Aug 2026, tightened again 24 Aug 2026. NO started as a table with no link and no
+summary. Flavio asked to see all 20 with name, summary, what they want, and the link. The
+24 Aug change goes further: every tier now uses the SAME six-line shape, because a compact
+NO row was still burying jobs and he wants his own call next to every one of them.
 
 Sort BID best-fit first. Best-fit means: matches his real proof, low applicant count,
 budget above his $18.50/hr floor or a fixed price worth the hours.
 
-Keep it readable on a phone. BID entries can breathe. NO is one compact line each, but
-never drops the link or the one-line summary.
+Keep it readable on a phone. Short lines, no wide tables. Twenty jobs at six lines each is
+long, and that is fine, it is meant to be scrolled.
 
 STEP 6 — commit and push to main. Commit message: "job inbox <date>".
 
