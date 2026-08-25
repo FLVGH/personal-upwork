@@ -1,5 +1,28 @@
 # To Do
 
+## DO THESE FOUR FIRST (added 14 Aug 2026)
+
+Everything else in this file is downstream of these. Roughly two hours total.
+
+- [ ] Paste bio from `profiles/personal-bio-ready.md` into the Upwork profile
+- [ ] Rate $16.70 to $18.50
+- [ ] Three portfolio items, outcome-first titles, from `profiles/youtube-portfolio-entries.md`
+- [ ] Update the stored routine prompt at claude.ai/code/routines to match
+      `tasks/job-hunt-routine.md`. The repo file was fixed 19 Aug, the scheduler was not, so
+      the 14 Aug run still used the old `youtube editor` / `youtube thumbnail` queries and the
+      old NO table. That is the last piece of the routine problem.
+
+Why: you are bidding against a profile that context.md calls generic AI-speak. The Wichita
+client clicks it within eight seconds of being interested.
+
+**Strategy for $10K/month: `tasks/10k-plan.md`.** Short version, hourly cannot get you there, so
+Upwork is the acquisition channel and the retainer is the business. Four clients at $3,000 beats
+seven at $1,500. Hire on client two, not client four.
+
+**Audit is the wedge: `deliverables/channel-audit-template.md`.** Bid, then $300-500 audit, then
+present it live, then retainer. The audit exists to manufacture a sales call, which is the part
+you are already better at than the people you compete with.
+
 ## NEXT SESSION
 
 ### Profile (UN-PAUSED 29 Jun — focus shifted here, away from sales bidding)
