@@ -74,21 +74,39 @@ it too.
 ## Send-ready
 
 ```
-I'm not a YouTube VA and my advice isn't going to be post more consistently. You already did that for seven months.
+I'm not a YouTube VA. My advice isn't going to be post more consistently, because you already did that for seven months.
 
-Consistency is half the rule. The other half is posting the right thing, and that's the half your channel is stuck on.
+Consistency is half the rule. Posting the right thing is the other half, and that's where your channel is stuck.
 
-Your theory is right as far as it goes. A break plus a shift to more niche content does make YouTube re-find who to show you to. But that settles in weeks, not months. Seven months of weekly uploads is far more than enough time for it to resolve, so the relearning isn't what's still holding you down. Something in what you're posting is, and that's the part worth finding.
+Your theory:
 
-Where I'd look, in order. Whether your CTR held or dropped when the content shifted, because high quality and low CTR is the most common version of this and from the inside it feels exactly like an algorithm problem. Then who your analytics say is actually watching, age, geography, returning against new, and whether that's the audience the newer videos were written for. Your comment section usually answers that faster than the dashboard does. Then competitors in the new niche, to see what's being packaged well there that you're not.
+You said the break plus the move to niche content made YouTube relearn who to recommend you to. That's real, it does happen. It just doesn't take seven months. It resets in a few weeks. So the relearning isn't what's holding you down now. Something in what you're posting is.
 
-On salvage or restart. You've got a year of content and real views behind you, so my instinct is fix rather than start again, and sometimes changing a few things about videos you already have is enough to move it. I won't promise you that before I've seen the data.
+What I'd look at:
 
-I have made the restart call for real, though. I've taken monetized channels for clients and rebranded them into different niches when that was the right answer, so I know what it actually costs rather than guessing. I can put you in touch with a couple of them.
+1. CTR before and after the shift. High quality with a low CTR is the most common version of this, and from the inside it looks exactly like an algorithm problem.
 
-Straight answer on this year: I've been consulting rather than operating and the recent work isn't mine to share. Older channels I can talk through in detail.
+2. Impressions against clicks. If impressions held and clicks dropped, it's packaging. If impressions dropped, it's topic and audience. Two different problems, two different fixes.
 
-First step costs you nothing. Share the channel, I'll send you a short set of questions, you answer them in text or a quick recording, then we take one call. What happened, why, and whether it's recoverable. You decide after that whether there's a paid piece worth doing.
+3. Who is actually watching. Age, country, returning against new. Then whether that matches the audience your newer videos were written for.
+
+4. Your comment section. It usually tells me who your audience thinks you are faster than the dashboard does.
+
+5. Competitors in the new niche. What they're packaging well that you aren't.
+
+Salvage or restart:
+
+You have a year of content and real views behind you. My instinct is fix rather than start over, and sometimes changing a few things about videos you already have is enough to move it. I won't promise you that before I've seen the data.
+
+What I've done:
+
+I've taken monetized channels for clients and rebranded them into different niches when that was the right call, so I know what a restart actually costs rather than guessing. I can put you in touch with a couple of them.
+
+Straight answer on this year: I've been consulting rather than operating, and the recent work isn't mine to share. Older channels I can walk you through in detail.
+
+The next step, and it's free:
+
+Share the channel. I'll send you a few questions, you answer in text or a quick recording, then we take one call. What happened, why, and whether it's recoverable. You decide after that whether there's a paid piece worth doing.
 
 Up for a call tomorrow?
 
@@ -117,11 +135,11 @@ Flavio
 ## Postflight
 
 - Em dashes: 0
-- Word count: ~330, down from 490 in v1
-- Structure: VA disqualifier, consistency correction, his theory agreed then the timeline
-  broken, what the audit looks at, salvage-or-restart with the instinct and the refusal to
-  promise, the rebranding proof, a stated limit on recent work, free first step, call ask
-- Labels in body: none
+- Word count: ~350, down from 490 in v1
+- Structure: VA disqualifier, consistency correction, then five plain-text sections with
+  colons mirroring his own post ("What I need:", "Who I'm looking for:", "The engagement:").
+  Analytics as a numbered list of five
+- Labels in body: section headers only, and they mimic his own. No marketing labels
 - Verbatim job-post quote: none. His VA line and his theory are both reframed
 - Day-by-day timeline: none
 - Sales/YouTube separation: held
