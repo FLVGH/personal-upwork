@@ -447,4 +447,44 @@ the audience. State it as your own view and put the number next to it.
 
 ---
 
+---
+
+## 17. Fast path (added 26 Aug 2026, after the audit job took 3 passes)
+
+The audit proposal took v1, v2, v3. Only v3 shipped. v1 was written before Flavio said what he
+thought of the job, so the angle was wrong. v2 fixed the angle and got the formatting wrong.
+Both were avoidable.
+
+**Default from now on: voice note first, one draft.**
+
+Flavio sends the job link and a voice note in the same message. Claude writes once. No blind v1.
+If there is no voice note, Claude asks one question and drafts, same as before.
+
+**When he says "I applied", log it and stop.** No summary of what was sent, he was there.
+
+### Read the client's post as a format spec, not just content
+
+Mirror how they wrote. If their post uses section headers with colons ("What I need:", "Who I'm
+looking for:"), the proposal uses section headers with colons. If they wrote one flat paragraph,
+the proposal is flat paragraphs. This is not the same as sec. 6's ban on labels: a header that
+mirrors theirs is structure, "Free offer:" is a label. Structure is allowed, marketing labels
+are not.
+
+### Formatting defaults
+
+- Anything that is a list of checks, steps or things to review goes in a numbered list. Easier
+  to read on a phone, and it is what a client skims for.
+- Plain text only. Upwork cover letters strip bold and markdown, so no asterisks.
+- 300 to 350 words. The 490-word version got cut to 330 and lost nothing.
+- Never hedge a position. "Your theory is right as far as it goes" is a sentence that makes the
+  reader ask which theory. Name the theory in his words, then say what is right and what is not.
+
+### What still gets flagged, always
+
+Unverified claims. Every time. Fast does not mean unchecked. If a proposal claims something
+that is not in tasks/context.md, it goes in the flagged list and Flavio has to be able to
+defend it on the call.
+
+---
+
 **End of playbook. Acknowledge by listing my buckets back to me and asking the session 1 questions.**
