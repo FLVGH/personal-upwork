@@ -304,6 +304,23 @@ Unverified claims must be flagged. The client may ask on the call. If I can't de
 
 **Check proposal count AT APPLY TIME, not at post time.** Job often moves 5 to 30 within an hour.
 
+**Read the whole Activity panel, not just the proposal count** (added 27 Aug 2026, after the
+audit job):
+- **Hires: 1 or more means stop.** Someone has already been taken on. Do not spend connects
+  unless the post explicitly hires several people. This is the single field that settles it and
+  it is the one nobody looks at.
+- **Interviewing: 0 with a high proposal count** means the client has not started reading, or
+  has finished and hired. Cross-check against Hires and Last viewed.
+- **Last viewed by client** over 24 hours ago on a fresh-ish post is a cooling job.
+
+**When the post says the client will pay more for experience, bid AT or ABOVE the average bid,
+never under it** (added 27 Aug 2026). The audit job showed avg bid $526, high $2,000, and the
+post said "I am willing to pay higher rates for the most experienced freelancers." Bidding $485
+under a $500 ceiling was arithmetically right and read as the cheap option on a job where cheap
+is a disqualifier. The visible bid range is data about what the field thinks the work is worth.
+Undercutting it on an expert-level post prices you out of the shortlist from the top, not the
+bottom.
+
 ---
 
 ## 11. Off-Upwork outreach templates (when I ask for one)
