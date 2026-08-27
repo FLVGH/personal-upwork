@@ -2,6 +2,10 @@
 
 **Sitting down to bid? Open `tasks/one-hour-sit.md`.** Minute-by-minute runbook for the hour.
 
+**Setting up the YouTube outreach? Open `tasks/youtube-outreach-setup.md`** (added 27 Aug).
+One ordered list: what is blocking money today, the questionnaire and competitor-research
+pieces the audit deliverable is still missing, profile, proof, and the Apify decision.
+
 ## DO THESE FOUR FIRST (added 14 Aug 2026)
 
 Everything else in this file is downstream of these. Roughly two hours total.
