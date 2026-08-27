@@ -1,4 +1,32 @@
-# Job Inbox - 26 Aug 2026
+# RUN FAILED - 27 Aug 2026
+
+Ran 04:34 UTC. 4 queries attempted, 0 pulled, 0 unique. BID 0 - BORDERLINE 0 - NO 0.
+
+**No jobs today. Apify is out of credit, not out of jobs.** Every query returned HTTP 403,
+`platform-feature-disabled`, "Monthly usage hard limit exceeded". Retried once as the spec says,
+same result on both. This is not the proxy, the network allowlist or the token: `users/me`
+authenticates fine and returns the account.
+
+Account `fmyt99`, FREE plan. Usage is $6.05 against a $5.00 monthly cap. The billing cycle runs
+13 Aug to 12 Sep 2026, so **every run between now and 13 Sep fails the same way** unless something
+changes. Three ways out:
+
+1. Upgrade at console.apify.com/billing. Starter is $39/mo, which is a lot for roughly $3/mo of
+   actual scraping. Only worth it if the inbox is earning.
+2. Pause the routine at claude.ai/code/routines until 13 Sep and bid from manual Upwork searches
+   (the URLs in CLAUDE.md sec. 5) in the meantime.
+3. New free Apify account, swap `APIFY_TOKEN` in the Default environment. Buys another $5.
+
+Worth knowing either way: at maxResults 10 across 4 queries this burned $5 in about two weeks,
+so the free tier is roughly a 20-day-a-month tool at current volume. Dropping back to maxResults 5
+would make it fit.
+
+Everything below is **26 Aug, one day stale**. The jobs are still readable but the applicant
+counts and "posted X ago" lines have moved. Open the links before you bid on any of them.
+
+---
+
+# Job Inbox - 26 Aug 2026 (STALE)
 
 Ran 10:10 UTC. 4 queries, 40 jobs pulled, 30 unique after dedupe.
 BID 0 - BORDERLINE 7 - NO 23
