@@ -152,6 +152,11 @@ Status: client needs to create Upwork account and post jobs.
 
 ---
 
+| 27 Aug 2026 | YouTube Marketing & Growth Specialist — physician/lifestyle channel (Washington, USA) | outreach/youtube-growth-physician-lifestyle.md | SEND-READY — bid $27.50/hr, no boost, 17 connects. 5-10 proposals, 5h old, contract-to-hire 30+hrs. Client avg paid $6.05/hr but that history is VA and design work; they have separate open posts for editor and thumbnail designer so this seat is strategy. Video teardown verified live. Set the real hours number before sending |
+| 27 Aug 2026 | YouTube Channel Setup, B2B SaaS construction software (Pleasanton, USA) | outreach/b2b-saas-channel-setup.md | SEND-READY — scored NO (production work), user override. Bid $42/hr, $55/video, BOOST mandatory. 20-50 proposals, 1 interviewing. Client pays $66.36/hr avg and says expert-level, so bid well over the $23.53 field average per the new sec. 10 rule. Sales/YouTube separation broken: RevOps + B2B sales is the whole differentiator |
+
+---
+
 ## Door-check (run before every proposal)
 - [ ] Payment verified
 - [ ] Under 5 proposals (check sidebar filter)
