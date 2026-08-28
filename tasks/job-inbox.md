@@ -161,3 +161,11 @@ The stored scheduler prompt is still the old one: `youtube editor`, `youtube thu
 That means the diversified queries, maxResults 10, the editing rule, and six lines on every tier.
 The stored prompt at claude.ai/code/routines still needs replacing by hand. Flagged on 26 Aug,
 flagged again on 27 Aug, still true.
+
+## Note on pushing to main (new, 28 Aug)
+
+`git push -u origin main` was rejected twice as "non-fast-forward, branch tip is behind its
+remote counterpart" when it was nothing of the sort: remote main was at the exact parent of the
+local commit. `git push origin HEAD:refs/heads/main` went through first try and landed the same
+commit. So the six days of failed pushes in the run history may not have been a permissions
+problem at all, just the wrong push form. Use the explicit refspec from now on.
