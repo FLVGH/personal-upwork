@@ -64,6 +64,17 @@ minutes on the Day 1 call.
 
 ## Not reviewed yet
 
-No opinion given in the sheet for: Sneaky Scales, Brass & Blood, Heaven Sent Honey, The Royal
-Collections, Forbidden Historian, Cold Degree, Mr Bell, Nightshift, History Passion, GrimoryX.
-Not silently dropped — just nobody's looked yet. Worth a pass if there's time before Day 1.
+No opinion given in the sheet for: Brass & Blood, Heaven Sent Honey, The Royal Collections,
+Forbidden Historian, Cold Degree, Mr Bell, Nightshift, History Passion, GrimoryX. Not silently
+dropped — just nobody's looked yet. Worth a pass if there's time before Day 1.
+
+## Visual style note — Sneaky Scales (added 2 Sep 2026)
+
+Flavio's correction: **Sneaky Scales uses heavy animation**, not stock or static AI images.
+Every content-type claim made earlier in this session (stock/AI-image/AI-video breakdowns) came
+from text search snippets and general pattern knowledge, not from actually watching these
+channels — vidIQ's video-watching tool (`vidiq_video_watch`) is real and does exist, but the
+account is at 0 credits, reset 19 Sep 2026. Until then, nothing in this repo about a specific
+channel's visual style should be treated as verified. Once credits are back, watch Sneaky Scales
+plus 2-3 others (start with What They Buried West, given the open conflict flagged above) before
+locking the visual-format decision for real, rather than deciding on assumptions.
