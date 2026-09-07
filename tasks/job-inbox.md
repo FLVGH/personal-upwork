@@ -1,64 +1,68 @@
-# Job Inbox - 6 Sep 2026
+# Job Inbox - 7 Sep 2026
 
-Ran 04:33 UTC. 4 queries attempted, 0 returned, 0 jobs pulled, 0 after dedupe.
+Ran 04:34 UTC. 4 queries attempted, 0 jobs pulled, 0 after dedupe.
 BID 0 - BORDERLINE 0 - NO 0
 
-**Day five. Same wall.**
+**The run failed. No jobs today, and none tomorrow either unless you act.**
 
-All four queries returned `HTTP 403 platform-feature-disabled`, message "Monthly
-usage hard limit exceeded". Retried all four, same answer. It is account level,
-so there is no partial result to salvage and no single query to drop. Nothing
-was scored today because nothing was pulled.
+Every Apify call came back HTTP 403:
 
-Five days of YouTube postings have gone past unseen. At roughly 20 to 28 unique
-jobs a run, that is somewhere over 100 jobs never looked at. Under-5-applicant
-posts do not keep.
+```
+{"error":{"type":"platform-feature-disabled","message":"Monthly usage hard limit exceeded"}}
+```
 
-Account state, read live from `api.apify.com/v2/users/me/limits`:
+Retried once as the spec says. Same error on both queries tested, so it is
+account-level, not one bad query. All 4 queries are dead: `youtube channel manager`,
+`youtube channel audit`, `youtube consultant`, `video content manager`.
 
-- Plan: FREE, cap $5.00 per usage cycle
-- Used: $6.0463
-- Cycle: 13 Aug 2026 to 12 Sep 2026
+## What is actually wrong
 
-## Nothing changed since yesterday
+Apify account `fmyt99`, FREE plan.
 
-The spend is still $6.0463, unmoved for 96 hours. The failing runs cost nothing.
-There is no new diagnostic information today and there will not be any tomorrow.
-This is not a problem that develops, it is a problem that waits.
+| | |
+|---|---|
+| Monthly cap | $5.00 |
+| Used this cycle | $6.05 |
+| Cycle ends | 12 Sep 2026, 23:59 UTC |
 
-## Fix, pick one
+You are $1.05 over a $5 ceiling. The platform has cut off actor runs for the rest of
+the cycle. **The routine will fail every morning through 12 Sep and start working again
+by itself on 13 Sep.**
 
-1. Raise the hard limit or leave the free plan at
-   https://console.apify.com/billing. Two minutes. The inbox is back the next
-   morning, and 20 jobs a day costs about $0.02.
-2. Wait for the cycle to roll on 13 Sep. Seven more days of no inbox.
-3. Pause the routine at
-   https://claude.ai/code/routines/trig_017tZTNWZ8VymdH5tasfD31J so it stops
-   firing into a wall, then re-enable once 1 is done.
+## Three ways out, cheapest first
 
-Doing nothing is option 2 by default, and it has been the default for five days.
+1. **Do nothing.** Six blank mornings, back to normal 13 Sep. Free. You lose a week of
+   inbox at a point where BID has been thin anyway.
+2. **Raise the hard limit on the free plan.** https://console.apify.com/billing goes to
+   Limits, raise the monthly cap above $5. Anything over $5 bills you at usage rates.
+   Roughly $0.20/day at the current settings, so about $1.20 to buy back the six days.
+3. **Upgrade to Starter.** $39/mo. Overkill for 40 job pulls a day.
 
-## Manual fallback while this is down
+Option 2 is the one that matches the volume.
 
-The searches still work in a browser. Section 5 of CLAUDE.md has the URLs, and
-the sidebar filter is Number of proposals, Less than 5. Paste any job link into
-a session and the door-check and draft still run normally. The scraper is the
-only broken part, not the pipeline.
+## Worth knowing regardless
 
-## Which spec this run used
+The cost note in `tasks/job-hunt-routine.md` says 20 jobs a day is about $0.02 a day and
+100 jobs is $0.10. Real spend is $6.05 in a 30-day cycle, roughly $0.20 a day, which is
+ten times the estimate. `enrichDetails: true` is the likely reason: it opens each job
+page separately, so the per-job price is not what the actor advertises for a plain
+listing pull. If you take option 2, set the new cap with $0.20/day in mind, not $0.02.
 
-The stored routine prompt and `tasks/job-hunt-routine.md` still disagree, sixth
-run running. The stored prompt asks for `youtube editor` / `youtube thumbnail` /
-`youtube strategy` at maxResults 5, which is the pre-19-Aug version, and it also
-says the repo file wins on any disagreement. So this run used the file:
-`youtube channel manager`, `youtube channel audit`, `youtube consultant`,
-`video content manager` at maxResults 10, with the editing and thumbnail kill
-rule and the six-line format for every tier.
+Also unresolved from the 14 Aug run: the scheduler is still serving a stored prompt that
+differs from the spec in `tasks/job-hunt-routine.md` (it asks for `youtube editor` and
+`youtube thumbnail` queries, `maxResults` 5, and a bare table for the NO tier, all of
+which the file supersedes). This run followed the file, as both documents instruct. The
+stored prompt at https://claude.ai/code/routines still needs replacing by hand.
 
-That drift needs correcting at https://claude.ai/code/routines. Editing the repo
-file does not change what the scheduler serves. I can make that edit through the
-API if you tell me to, but it rewrites what every future run executes, so I am
-not doing it unasked. Since the scraper is down anyway, both fixes are one
-sitting.
+## BID
 
-No jobs invented, no tier padded.
+None. The scraper never ran.
+
+## BORDERLINE
+
+None. The scraper never ran.
+
+## NO
+
+None. The scraper never ran. This is an empty list because of a billing block, not
+because 20 jobs were pulled and all 20 were bad. Nothing was scored today.
