@@ -1,9 +1,10 @@
-# Job Inbox - 7 Sep 2026
+# Job Inbox - 8 Sep 2026
 
 Ran 04:34 UTC. 4 queries attempted, 0 jobs pulled, 0 after dedupe.
 BID 0 - BORDERLINE 0 - NO 0
 
-**The run failed. No jobs today, and none tomorrow either unless you act.**
+**Second blank morning. Same cause as 7 Sep. Nothing has changed and nothing will
+change on its own until 13 Sep.**
 
 Every Apify call came back HTTP 403:
 
@@ -11,58 +12,45 @@ Every Apify call came back HTTP 403:
 {"error":{"type":"platform-feature-disabled","message":"Monthly usage hard limit exceeded"}}
 ```
 
-Retried once as the spec says. Same error on both queries tested, so it is
-account-level, not one bad query. All 4 queries are dead: `youtube channel manager`,
+Retried all four as the spec says. All four dead: `youtube channel manager`,
 `youtube channel audit`, `youtube consultant`, `video content manager`.
 
-## What is actually wrong
+## Account state, checked live this morning
 
 Apify account `fmyt99`, FREE plan.
 
 | | |
 |---|---|
 | Monthly cap | $5.00 |
-| Used this cycle | $6.05 |
+| Used this cycle | $6.046 |
 | Cycle ends | 12 Sep 2026, 23:59 UTC |
+| Blank mornings so far | 2 (7 Sep, 8 Sep) |
+| Blank mornings still to come if you do nothing | 4 (9, 10, 11, 12 Sep) |
 
-You are $1.05 over a $5 ceiling. The platform has cut off actor runs for the rest of
-the cycle. **The routine will fail every morning through 12 Sep and start working again
-by itself on 13 Sep.**
+The usage number is identical to yesterday's to three decimals, which confirms nothing
+is sneaking through. The meter is frozen because the platform has cut off actor runs,
+not because the runs are cheap.
 
-## Three ways out, cheapest first
+## Fix, one link
 
-1. **Do nothing.** Six blank mornings, back to normal 13 Sep. Free. You lose a week of
-   inbox at a point where BID has been thin anyway.
-2. **Raise the hard limit on the free plan.** https://console.apify.com/billing goes to
-   Limits, raise the monthly cap above $5. Anything over $5 bills you at usage rates.
-   Roughly $0.20/day at the current settings, so about $1.20 to buy back the six days.
-3. **Upgrade to Starter.** $39/mo. Overkill for 40 job pulls a day.
+https://console.apify.com/billing → Limits → raise the monthly cap above $5.
 
-Option 2 is the one that matches the volume.
+Roughly $0.20/day at current settings, so about $0.80 to buy back the remaining four
+mornings, and the cap resets on 13 Sep anyway. That is the whole decision.
 
-## Worth knowing regardless
+Upgrading to Starter at $39/mo is still overkill for 40 job pulls a day. Do not.
 
-The cost note in `tasks/job-hunt-routine.md` says 20 jobs a day is about $0.02 a day and
-100 jobs is $0.10. Real spend is $6.05 in a 30-day cycle, roughly $0.20 a day, which is
-ten times the estimate. `enrichDetails: true` is the likely reason: it opens each job
-page separately, so the per-job price is not what the actor advertises for a plain
-listing pull. If you take option 2, set the new cap with $0.20/day in mind, not $0.02.
+## One thing worth knowing while the pipe is dry
 
-Also unresolved from the 14 Aug run: the scheduler is still serving a stored prompt that
-differs from the spec in `tasks/job-hunt-routine.md` (it asks for `youtube editor` and
-`youtube thumbnail` queries, `maxResults` 5, and a bare table for the NO tier, all of
-which the file supersedes). This run followed the file, as both documents instruct. The
-stored prompt at https://claude.ai/code/routines still needs replacing by hand.
+The scheduler is still serving a stale routine prompt. The stored prompt asks for
+`youtube editor` and `youtube thumbnail` (both killed on 25 Aug for pulling hands-on
+editing work outside the bucket), `maxResults` 5 instead of 10, and the old bare NO
+table. `tasks/job-hunt-routine.md` wins per its own rule, so this run used the correct
+four queries, and every run since has done the same. But the stored prompt at
+https://claude.ai/code/routines/trig_017tZTNWZ8VymdH5tasfD31J has never actually been
+replaced. Worth doing in the same sitting as the billing fix, since both are
+two-minute web-console jobs and neither can be done from this repo.
 
-## BID
+## Jobs
 
-None. The scraper never ran.
-
-## BORDERLINE
-
-None. The scraper never ran.
-
-## NO
-
-None. The scraper never ran. This is an empty list because of a billing block, not
-because 20 jobs were pulled and all 20 were bad. Nothing was scored today.
+None. Not a thin day, a zero-data day. There is no list to bury a good job in.
