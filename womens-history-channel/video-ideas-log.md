@@ -31,6 +31,29 @@ team agrees, meaning swap 3 and 5 for two more Template A cases from the backlog
 one) and push them to slots 6+. Not done automatically here — confirm the Template A/B decision
 first, then reorder this table.
 
+## Search-driven picks (added 11 Sep 2026)
+
+The 15 titles above came from watching what plays in the *suggested feed* on channels that
+already have subscribers. These two are picked differently: on existing search volume, because
+a brand-new channel with zero subscribers gets found through search before it ever gets
+suggested to anyone. Flavio's call — for a small channel, rely on searchable topics over
+blue-ocean obscurity, at least for the first few videos. Two reusable search-pattern shapes to
+keep in mind for future picks too: "Female Scientist Who Changed [X]" and "Women Who Changed
+[X]" — both real search phrases, not injustice-framed like Template A/B, worth testing
+separately.
+
+| # | Working title | Template | Real name/case | Status |
+|---|---|---|---|---|
+| 16 | The Mysterious Disappearance of the Woman Who Changed Aviation \| Amelia Earhart | A, search-driven | Amelia Earhart | backlog |
+| 17 | The Queen They Executed for a Murder She May Not Have Committed \| Mary, Queen of Scots | A, search-driven | Mary, Queen of Scots | backlog |
+
+Amelia Earhart is about as far from blue-ocean as this list gets — thousands of existing videos
+cover her. The bet here is that her existing search volume outweighs the competition for a
+channel that has no suggested-feed traffic yet, and the erasure angle is real: her record-
+breaking flying career gets flattened into "the woman who vanished" almost everywhere that
+covers her, which leaves room for a version that leads with what she actually did before it
+gets to the disappearance.
+
 ## How to add a brief
 
 When Flavio finishes a day's video brief (`video-brief-template.md`), paste the filled block
