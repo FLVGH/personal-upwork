@@ -41,6 +41,26 @@ from a direct comp and remade it with one twist: second-person POV instead of th
   channel, could be the twist genuinely not landing. One data point, not enough to call it
   either way.
 
+### More videos checked (11 Sep 2026, via Firecrawl page fetch, no vidIQ)
+
+| Video | Views | Format |
+|---|---|---|
+| "Your Tragic Life as The 'Monster' of The Palace" \| Eugenia Martínez | 1,351 | Single biography, POV |
+| "YOUR LIFE AS EVERY GREEK HEROINE (THEY ALL ENDED IN TRAGEDY)" | 661 | Anthology of 6 women (Polyxena, Deianira, Iphigenia, Clytemnestra, Procne & Philomela, Medea), POV |
+| "Your Life at Every Rank of CIA Black OPS" | 218 (from a search snippet, not independently page-verified) | Ranking format |
+
+None of these break out. Worth flagging: the anthology structure ("6 women in one video") is the
+same shape that works well on Forgotten Lives ("Insane Socialites...", "Tragic Millionaires...")
+— it didn't lift this channel's numbers either. Useful negative result: the compilation format by
+itself isn't sufficient, whatever else made it work on Forgotten Lives (subscriber base,
+algorithm trust, execution) is doing the real work.
+
+Caught and corrected a mistake here: a Google search snippet showed "788K views" next to this
+channel's Greek Heroine video, which briefly got reported as its view count. That number
+actually belonged to a different, unrelated video shown alongside it in the same search result.
+The real number (661) came from fetching the video's own page directly. Worth remembering when
+skimming search snippets for numbers generally.
+
 ### What this means for us
 
 - **Direct validation the concept has demand** — someone else independently arrived at the same
