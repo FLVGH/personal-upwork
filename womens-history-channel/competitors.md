@@ -61,11 +61,32 @@ actually belonged to a different, unrelated video shown alongside it in the same
 The real number (661) came from fetching the video's own page directly. Worth remembering when
 skimming search snippets for numbers generally.
 
+### A second channel cloned the same exact video, also failed (11 Sep 2026)
+
+**Lost & Found Tales** (@LostNFoundTales) — "The Tragic Life of a Girl Turned Into a Monster by
+the Royal Court | Eugenia Martínez," posted 15 Jul 2026, 9:09 runtime, third-person narration
+(the same format as the original, not POV like The Unnamed Life). **417 views, 15 likes.**
+
+This is now two independent channels that both cloned Forgotten Lives' single biggest video ever
+(3.43M views) and both failed to get real traction — 1,351 views on the POV remake, 417 on the
+straight third-person remake. Different channel, different format choice, same result.
+
+**This changes the read on "clone the comp's best video" as a strategy.** It's not a free win.
+Topic alone isn't transferring the performance — something about Forgotten Lives' execution
+(channel authority, algorithm momentum from an established audience, the specific craft of the
+writing, thumbnail) is doing more of the work than the subject matter itself. Two failed
+replications of the exact same video is a real pattern, not noise. Any comp-cloning this channel
+does needs to bring something more than a shared subject to have a real shot.
+
 ### What this means for us
 
-- **Direct validation the concept has demand** — someone else independently arrived at the same
-  "dark female history POV" idea and is actively producing it, which is a signal the space
+- **Direct validation the concept has demand** — two separate channels independently arrived at
+  the same "dark female history" idea and are actively producing it, which is a signal the space
   isn't imagined, not a reason to worry about being first.
+- **Retracted: "clone a comp's top performer" is not a safe default anymore.** Earlier guidance
+  in this project pointed at this as a strategy. Two independent failed attempts on the exact
+  same video (this section, above) downgrade it from a recommended move to an unproven one.
+  If we ever do it, treat it as a test, not a plan.
 - **Their format choice (POV) is untested territory**, same as the roadmap's Template C —
   worth watching whether it ever breaks out, since it would answer a question our own Template
   A/B research couldn't.
